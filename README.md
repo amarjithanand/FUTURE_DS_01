@@ -39,7 +39,7 @@ Dataset Link:
 │   ├─ Dashboard_Main_View.png
 │   ├─ PowerBI_TableView.png
 │   ├─ PowerBI_DAX_Query_View.png
-│   └─ Excel_Raw_Data_View.png
+│   └─ Excel_Raw_Dataset_View.png
 ├─ 📁 Docs
 │   └─ Project_Documentation.pdf
 ├─ 📁 Dataset
@@ -112,7 +112,7 @@ Full project documentation including:
 
 Download here:  
 📄 **Project Documentation (PDF)**  
-(Insert file link after upload)
+![Dashboard](./Docs/Project_Documentation.pdf)
 
 ---
 
@@ -128,7 +128,7 @@ Download here:
 ![DAX Query](./Screenshots/PowerBI_DAX_Query_View.png)
 
 ### 📌 Dataset Preview
-![Dataset](./Screenshots/Excel_Raw_Data_View.png)
+![Dataset](./Screenshots/Excel_Raw_Dataset_View.png)
 
 ---
 
