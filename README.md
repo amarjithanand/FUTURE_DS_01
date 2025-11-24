@@ -30,17 +30,18 @@ Dataset Link:
 
 ## 📂 Repository Contents
 ```
-📁 ecommerce-business-insights-powerbi-dashboard
-│
-├─ 📄 PowerBI_Dashboard.pbix
-├─ 📄 Project_Documentation.pdf
+📁 FUTURE_DS_01
+├─ 
+├─ 📁 Dashboard
+│   └─ PowerBI_Dashboard.pbix
 │
 ├─ 📁 Screenshots
 │   ├─ Dashboard_Main_View.png
 │   ├─ PowerBI_DataView.png
 │   ├─ DAX_Query_View.png
 │   └─ Excel_Raw_Data_Preview.png
-│
+├─ 📁 Docs
+│   └─ Project_Documentation.pdf
 ├─ 📁 Dataset
 │   └─ Retail_Sales_Dataset.xlsx
 │
