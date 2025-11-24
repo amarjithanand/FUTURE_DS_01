@@ -37,9 +37,9 @@ Dataset Link:
 │
 ├─ 📁 Screenshots
 │   ├─ Dashboard_Main_View.png
-│   ├─ PowerBI_DataView.png
-│   ├─ DAX_Query_View.png
-│   └─ Excel_Raw_Data_Preview.png
+│   ├─ PowerBI_TableView.png
+│   ├─ PowerBI_DAX_Query_View.png
+│   └─ Excel_Raw_Data_View.png
 ├─ 📁 Docs
 │   └─ Project_Documentation.pdf
 ├─ 📁 Dataset
@@ -121,14 +121,14 @@ Download here:
 ### 📌 Main Dashboard View
 ![Dashboard](./Screenshots/Dashboard_Main_View.png)
 
-### 📌 Power BI Data View
-![Data View](./Screenshots/PowerBI_DataView.png)
+### 📌 Power BI Table View
+![Data View](./Screenshots/PowerBI_TableView.png)
 
 ### 📌 DAX Query Output
-![DAX Query](./Screenshots/DAX_Query_View.png)
+![DAX Query](./Screenshots/PowerBI_DAX_Query_View.png)
 
 ### 📌 Dataset Preview
-![Dataset](./Screenshots/Excel_Raw_Data_Preview.png)
+![Dataset](./Screenshots/Excel_Raw_Data_View.png)
 
 ---
 
