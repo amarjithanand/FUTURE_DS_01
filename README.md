@@ -106,9 +106,9 @@ Full project documentation including:
 ✅ Objectives  
 ✅ Conclusion  
 
-Download here:  
-📄 **Project Documentation (PDF)**(./Docs/Project_Documentation.pdf)
-
+Download here:  <a href="./Docs/Project_Documentation.pdf">
+📄 **Project Documentation (PDF)**
+</a>
 ---
 
 ## 🖼 Dashboard Preview Screenshots
