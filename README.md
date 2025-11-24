@@ -24,7 +24,7 @@ Kaggle – Retail Transaction Dataset
 (Contains invoices, quantities, customer IDs, dates, countries, and revenue fields)
 
 Dataset Link:  
-🔗 https://www.kaggle.com/datasets
+🔗 [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository)
 
 ---
 
@@ -104,15 +104,10 @@ Full project documentation including:
 ✅ Introduction  
 ✅ Problem Statement  
 ✅ Objectives  
-✅ Methodology  
-✅ Dashboard Explanation  
-✅ Findings & Insights  
 ✅ Conclusion  
-✅ Future Enhancements  
 
 Download here:  
-📄 **Project Documentation (PDF)**  
-![Dashboard](./Docs/Project_Documentation.pdf)
+📄 **Project Documentation (PDF)**(./Docs/Project_Documentation.pdf)
 
 ---
 
